@@ -1,0 +1,9 @@
+bin/
+obj/
+node_modules/
+*.suo
+*.user
+*.tmp
+.vs/
+.idea/
+.DS_Store
